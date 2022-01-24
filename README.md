@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @magnusxm
-- 👀 I’m interested in jazz piano, environmental engineering, and Nietzsche
+- 👀 I’m interested in jazz piano, writing, and rock climbing
 - 🌱 I’m currently learning python to pursue machine learning
-- 💞️ I’m looking to collaborate on any project that involves robotics, machine learning, or bettering the planet!
+- 💞️ I’m looking to collaborate on any project that involves robotics, machine learning, or writing!
 - 📫 How to reach me magnusxmoeder@gmail.com
 
 <!---
